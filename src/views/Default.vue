@@ -11,7 +11,7 @@
         ></v-img>
       </template>
 
-      <v-app-bar-title class="text-sm-h4">Sample</v-app-bar-title>
+      <v-app-bar-title class="text-sm-h4">new Sample</v-app-bar-title>
 
       <v-spacer></v-spacer>
 
