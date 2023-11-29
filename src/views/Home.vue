@@ -4,6 +4,10 @@
     <v-card width="500" class="my-3 pa-1" height="250"><canvas id="card2"></canvas></v-card>
     <v-card width="500" class="my-3 pa-1" height="250"><canvas id="acquisitions"></canvas></v-card>
     <v-card width="500" class="my-3 pa-1" height="250"><canvas id="card4"></canvas></v-card>
+    <v-card>
+      <h1>new code</h1>
+      <v-btn>new btn</v-btn>
+    </v-card>
   </div>
 </template>
 <script setup type="module">
